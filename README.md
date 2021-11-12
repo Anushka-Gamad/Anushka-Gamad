@@ -55,4 +55,7 @@
 |`S`| | | | | |`M`| | |[📸](https://www.instagram.com/anushkxx18/)| |
 |`M`| | | | | | | | | | |
 
+## 𝗦𝘁𝗮𝘁𝘀
+
+![Anushka's github stats](https://github-readme-stats.vercel.app/api?username=Anushka-Gamad&show_icons=true&theme=dracula)
 
