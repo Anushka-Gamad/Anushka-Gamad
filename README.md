@@ -47,15 +47,15 @@
 
 [![Anushka's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Anushka-Gamad&theme=xcode)](https://github.com/Anushka-Gamad)
 
-<!-- <a href="https://github.com/Anushka-Gamad">
+<a href="https://github.com/Anushka-Gamad">
   <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Anushka-Gamad&theme=buefy&show_icons=true" />
   <img height="185em" src="https://github-readme-streak-stats.herokuapp.com/?user=Anushka-Gamad"/>
   
-</a> -->
+</a>
 
-## 𝗦𝘁𝗮𝘁𝘀
+<!-- ## 𝗦𝘁𝗮𝘁𝘀
 
-![Anushka's github stats](https://github-readme-stats.vercel.app/api?username=Anushka-Gamad&show_icons=true&theme=dracula)
+![Anushka's github stats](https://github-readme-stats.vercel.app/api?username=Anushka-Gamad&show_icons=true&theme=dracula) -->
 
 ## My Interests
 |T|h|i|n|g|s||I||💚|:|
