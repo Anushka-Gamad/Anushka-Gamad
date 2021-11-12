@@ -11,7 +11,7 @@
   <img align="left" alt="Anushka's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-(https://visitor-badge.glitch.me/badge?page_id=Anushka-Gamad.Anushka-Gamad&style=flat-square&color=0088cc)
+[](https://visitor-badge.glitch.me/badge?page_id=Anushka-Gamad.Anushka-Gamad&style=flat-square&color=0088cc)
 
 - 🌱 I’m currently learning Development
 - 👯 I’m looking to collaborate on development projects
