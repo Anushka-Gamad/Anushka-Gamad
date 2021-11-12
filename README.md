@@ -1,5 +1,5 @@
 <h2> Hi, I'm  Anushka ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p><img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 <a href="https://twitter.com/G18Anushka">
   <img align="left" alt="Anushka | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
@@ -10,7 +10,7 @@
 <a href="https://open.spotify.com/user/31bye74ulcbntjyaeglwpm2ypglu?si=135d9ed12a0341b2">
   <img align="left" alt="Anushka's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
-
+</p>
 <h2>Glad to see you here!!</h2>
 
 - 🌱 I’m currently learning Development
