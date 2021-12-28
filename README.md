@@ -53,9 +53,9 @@
   
 </a> -->
 
-## 𝗦𝘁𝗮𝘁𝘀
+<!-- ## 𝗦𝘁𝗮𝘁𝘀
 
-![Anushka's github stats](https://github-readme-stats.vercel.app/api?username=Anushka-Gamad&show_icons=true&theme=dracula)
+![Anushka's github stats](https://github-readme-stats.vercel.app/api?username=Anushka-Gamad&show_icons=true&theme=dracula) -->
 
 <!-- ## My Interests
 |T|h|i|n|g|s||I||💚|:|
