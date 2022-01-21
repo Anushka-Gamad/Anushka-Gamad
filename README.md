@@ -56,21 +56,5 @@
 <!-- ## 𝗦𝘁𝗮𝘁𝘀
 
 ![Anushka's github stats](https://github-readme-stats.vercel.app/api?username=Anushka-Gamad&show_icons=true&theme=dracula) -->
-
-<!-- ## My Interests
-|T|h|i|n|g|s||I||💚|:|
-| - | - | - | - | - | - | - | - | - | - | - |
-| | | |`P`| | | | | | |`A`|
-| |`D`|`E`|`S`|`I`|`G`|`N`| |`R`| |`N`|
-|`M`| | |`Y`| | | | |`E`| |`I`|
-|`I`| | |`C`|`O`|`D`|`E`| |`A`| |`M`|
-|`N`| | |`H`| | | | |`D`| |`D`|
-|`I`| |`C`|`O`|`M`|`P`|`U`|`T`|`E`|`R`| |
-|`M`| | |`L`| | | | |`R`| | |
-|`A`| | |`O`| | | | | | | |
-|`L`|`I`|`N`|`G`|`U`|`I`|`S`|`T`|`I`|`C`| |
-|`I`| | |`Y`| | | | | | | |
-|`S`| | | | | | | | |[📸](https://www.instagram.com/anushkxx18/)| |
-|`M`| | | | | | | | | | |
- -->
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Anushka-Gamad&theme=github)
 ## Okay Bye!! I'll see you around. 
