@@ -52,6 +52,9 @@
 </a> -->
 
 <!-- ## 𝗦𝘁𝗮𝘁𝘀
+<p align="center">
+  <img src="https://github.com/Anushka-Gamad/Anushka-Gamad/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 
 ![Anushka's github stats](https://github-readme-stats.vercel.app/api?username=Anushka-Gamad&show_icons=true&theme=dracula) -->
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Anushka-Gamad&theme=github)
