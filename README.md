@@ -57,5 +57,5 @@
 </p>
 
 ![Anushka's github stats](https://github-readme-stats.vercel.app/api?username=Anushka-Gamad&show_icons=true&theme=dracula) -->
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Anushka-Gamad&theme=github)
-## Okay Bye!! I'll see you around. 
+<!-- ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Anushka-Gamad&theme=github) -->
+## Okay Bye!!
