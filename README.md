@@ -15,7 +15,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/G18Anushka)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/anushkxx18/)
 
-  I am a Computer science sophomore currently skilled in web development 🤖, learning flutter development and beginner in designing 🎨.
+  I am a Computer science sophomore currently skilled in web development 🤖, beginner in designing 🎨.
   I love to explore and learn new techs .<p> Would love to collaborate to projects and learn new concepts 💻!!</p>
  <p>⚡ Fun fact: I am a anime weeb.</p>
 
